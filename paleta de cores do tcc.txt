@@ -1,0 +1,8 @@
+Paleta de cores tcc
+#c2c2c2
+#d4d4d4
+#8fd694
+#7dba84
+#77ad78
+#6f8f72
+#504b43
