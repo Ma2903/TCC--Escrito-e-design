@@ -6,3 +6,7 @@ Paleta de cores tcc
 #77ad78
 #6f8f72
 #504b43
+
+Pontes para os textos do tcc(google fonts)
+Roboto
+Poppins
